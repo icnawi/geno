@@ -3,7 +3,7 @@
 The tool to generate pseudo random strings of ASCII characters as passwords, secrets or codes.
 Currently this tool supports 3 formats of output:
 - Numeric
-- HEX
+- base-16
 - Alphanumeric
 
 ## Installation
